@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Api Automation Assignment">
+ 
+ <test name="APiAutomationTest">
+
+ <classes>
+ <class name="com.basetest.TestBase" /> 
+ <class name="com.testcases.PostTestcases" />
+ <class name="com.testcases.GetTestcases" />
+ <class name="com.testcases.PutTestcases" />    
+ </classes> 
+ </test>
+ </suite>  

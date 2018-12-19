@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Api Automation Assignment]">
+  <test name="APiAutomationTest(failed)">
+    <classes>
+      <class name="com.testcases.GetTestcases">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testcases.GetTestcases -->
+      <class name="com.testcases.PostTestcases">
+        <methods>
+          <include name="commentsrequest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testcases.PostTestcases -->
+      <class name="com.testcases.PutTestcases">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.testcases.PutTestcases -->
+    </classes>
+  </test> <!-- APiAutomationTest(failed) -->
+</suite> <!-- Failed suite [Api Automation Assignment] -->
