@@ -5,7 +5,6 @@
  <test name="APiAutomationTest">
 
  <classes>
- <class name="com.basetest.TestBase" /> 
  <class name="com.testcases.PostTestcases" />
  <class name="com.testcases.GetTestcases" />
  <class name="com.testcases.PutTestcases" />    
